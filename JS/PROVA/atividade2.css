@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    border: none;
+    padding: 16px;
+    border-radius: 30px 20px 10px 5px;
+    margin-top: 16px;
+}
+
+p{
+    margin-top: 16px;
+}
